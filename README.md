@@ -6,10 +6,15 @@ Moreover, we are sharing DeepClone model which can be downloaded from <a href="h
 
 You can follow complete instructions on how to install and setup HuggingFace Transformer's Library from this <a href="https://github.com/huggingface/transformers">link</a>. Similarly, you can follow instructions on how to perform language modeling from Section <a href="https://github.com/huggingface/transformers/tree/master/examples/pytorch/language-modeling">"GPT-2/GPT and causal language modeling"</a>? There is a need to provide training, testing and validation files to build and evaluate language model.
 
+Following are the descriptions of the code files used in our methodology:
 
+<ol>
 
+  <li> buildInputSequence.py contains code to build input sequences from projectcodenet corpus
+  <li> calculatePerplexity.py contains code for caluclating perplexity to determine naturalness. We determine naturalness for predicted clone methods, orignal clone methods, and recommended clone methods.
+   <li> codegenerate-bm.py contains code to generate predicted clone method by using HuggingFace transformer library.
  
-
+</ol>
 
 
 
