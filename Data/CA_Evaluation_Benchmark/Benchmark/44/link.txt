@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/4138827/check-string-for-palindrome

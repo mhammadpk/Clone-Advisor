@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/18015431/how-can-i-capture-image-of-desktop-screen-in-java

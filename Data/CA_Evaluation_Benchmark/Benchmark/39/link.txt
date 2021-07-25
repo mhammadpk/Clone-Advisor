@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/20281835/how-to-delete-a-folder-with-files-using-java

@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/38991085/how-to-send-one-to-one-message-using-smack-api-4-1-0-android
